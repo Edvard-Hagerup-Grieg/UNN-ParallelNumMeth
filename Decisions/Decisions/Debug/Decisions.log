@@ -1,0 +1,3 @@
+﻿  LU_Decomposition.cpp
+c:\users\franz\desktop\github\unn-parallelnummeth\decisions\decisions\lu_decomposition.cpp(241): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Decisions.vcxproj -> C:\Users\Franz\Desktop\GitHub\UNN-ParallelNumMeth\Decisions\Debug\Decisions.exe
